@@ -2,7 +2,7 @@ Game Theory applicated to Security
 ===========================
 
 ##About
-This thesis talk about techniques of Game Theory that can be applicated to Network Security. 
+This essay talk about techniques of Game Theory that can be applicated to Network Security. 
 Their pros and cons and some real world applications.
 
 ##Language
